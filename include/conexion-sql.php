@@ -1,0 +1,1 @@
+$conexión = odbc_connect("Driver={SQL Server Native Client 10.0};Server=$server;Database=$db_cardiso;", $sa, $root);
