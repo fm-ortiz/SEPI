@@ -1,0 +1,36 @@
+.css-titulo{
+	font-family:'Playfair Display', serif;
+	font-size:21px;
+	text-shadow: 4px 4px 4px #aaa;
+				
+}
+.letter{
+	font-family:'Playfair Display', serif;
+	font-size:20px;
+}
+.letter1{
+	font-family:'Playfair Display', serif;
+	font-size:17px
+}
+body {
+	margin: 0 auto;
+	background:url("http://www.americana.edu.co/medellin/images/sitio/slide-principal/Banner-web-Alta-acreditacion.png") no-repeat center fixed;
+	background-size: cover;
+	background-origin: content-box;
+}
+.ex:hover, ex:active {font-size: 125%}
+.form-group{
+}
+.form-check{
+}
+.Contenedor {
+	background-color: 	#cfcfc9;
+   border-radius: 10px;
+   box-shadow: 6px 6px 20px #333;
+   text-align:center;
+   padding: 5px 5px 5px 5px;
+   
+}
+#ContenedorHijo {
+    background-color: 	#cfcfc9;
+}

@@ -1,0 +1,124 @@
+﻿body {
+     background: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align:center
+}
+
+
+
+#Titulos {
+    color: black;
+}
+
+.Contenedor {
+    /*background-color: #f2f4f5;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 15px;
+    box-shadow: inset 0px 0px 15px #000;
+    padding: 10px 10px 20px 10px;*/
+
+   background-color: #f2f4f5;
+   border-radius: 10px;
+   box-shadow: 6px 6px 20px #333;
+   text-align:center;
+   padding: 5px 5px 5px 5px;
+   
+}
+
+
+#form12 {
+   background-color: #f2f4f5;
+   border-radius: 10px;
+   box-shadow: 6px 6px 20px #333;
+   text-align:center;
+   padding: 10px 10px 20px 10px;
+   width:70%
+}
+
+
+
+#ContenedorHijo {
+    background-color: #f2f4f5;
+}
+
+.CajasTxt {
+    border: 2px solid inset;
+    border-radius: 10px;
+    height: auto;
+    width: auto;
+    outline: none;
+    padding: 0px 0px 0px 10px;
+   
+}
+
+
+.BotonIngresar{
+     background: #243881 url(../imagenes/Iconos/Password.png) no-repeat;
+}
+
+.Botones {
+    border: unset .5px #9CB56C;
+    color: white;
+    padding: 8px 5px 10px 33px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 52px;
+    box-shadow: 1px 1px 4px #ffffff;
+    position: relative;
+    text-align: right;
+    top: 0;
+    left: 0;
+    background-position-x: 7px;
+    background-position-y: 3px;
+    outline: 0;
+}
+
+    .Botones:hover {
+	    border: unset .5px #9CB56C;
+        border-radius: 52px;
+        box-shadow: 1px 1px 4px white;
+        text-shadow: 1px 2px 1px gray;
+        color: bc9753;
+        outline: 0;
+    }
+
+        .Botones:hover:active {
+            border: unset .5px #9CB56C;
+            border-radius: 52px;
+            box-shadow: 1px 1px 4px #ffffff;
+            background-position: center;
+            background-position-x: 7px;
+            background-position-y: 3px;
+            text-align: center;
+            color: bc9753;
+            font-size: 12px;
+            padding: 8px 5px 8px 32px;
+            outline: 0;
+        }
+		
+		
+		
+#MenuBasico{
+ background-color: 243881;
+ border-radius: 10px 10px 10px 10px;	
+ border:2px;   
+ text-align:center;}
+ 
+ 
+ #logueo{
+color:white;
+font-size:11px;
+text-align:left;
+}
+
+#userpie{
+text-align:center;
+font-size:13px
+}
+
+#creditos{
+text-align:center;
+font-size:11px
+}
